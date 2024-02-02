@@ -1,0 +1,2 @@
+Para iniciar o vite digite no prompt de comando (cmd ou powerShell):
+npm run dev
